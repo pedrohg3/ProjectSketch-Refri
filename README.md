@@ -26,19 +26,7 @@ Uma vitrine interativa de refrigerantes com sabores de frutas, desenvolvida com 
 - Background dinâmico que muda conforme o sabor
 - Animações suaves ao trocar de item
 - Layout centralizado com destaque visual para os produtos
-
----
-
-📌 Melhorias Futuras
-Responsividade completa para dispositivos móveis
-
-Animações de transição entre os sabores
-
-Suporte a mais sabores de refrigerante
-
-Adição de som ou efeitos visuais ao clicar nos botões
-
-
+- 
 ---
 
 ## 🚀 Como Executar o Projeto
